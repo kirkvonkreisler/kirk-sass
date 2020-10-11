@@ -2,6 +2,8 @@
 
 Due: October 10, 2020
 
+https://kirkvonkreisler.github.io/kirk-sass/
+
 ## Lesson to refactor CSS to SCSS
 
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
